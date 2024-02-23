@@ -1,4 +1,6 @@
+/* app-body kiyl dala methana style kare nattn post card eka ehema nav bar ekata wahenwa. ekai mehem ekk dala 150kin pahalata enn style kre
+ */
 .app-body {
-  min-height: 85vh;
-  margin: 150px;
+  margin-top: 150px;
+  min-height: 35vh;
 }
