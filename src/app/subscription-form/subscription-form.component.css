@@ -21,7 +21,6 @@ input[type="email"] {
   border: none;
   font-size: 13px;
   background-color: var(--primary-color);
-  color: white;
   width: 96%;
 }
 
